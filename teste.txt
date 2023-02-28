@@ -1,0 +1,1 @@
+console.log('comi o cu de quem ta lendo');
